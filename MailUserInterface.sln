@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailUserInterface", "MailUserInterface\MailUserInterface.csproj", "{4EBAB310-A106-4FB0-815E-F381A545E212}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DLayer", "DLayer\DLayer.csproj", "{C68D6AB5-973E-47AA-86C9-4CE2FFCEF73B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLayer", "BLayer\BLayer.csproj", "{04550208-02E5-42A2-94D7-BE477EF7A84D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EBAB310-A106-4FB0-815E-F381A545E212}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EBAB310-A106-4FB0-815E-F381A545E212}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EBAB310-A106-4FB0-815E-F381A545E212}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EBAB310-A106-4FB0-815E-F381A545E212}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C68D6AB5-973E-47AA-86C9-4CE2FFCEF73B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C68D6AB5-973E-47AA-86C9-4CE2FFCEF73B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C68D6AB5-973E-47AA-86C9-4CE2FFCEF73B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C68D6AB5-973E-47AA-86C9-4CE2FFCEF73B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04550208-02E5-42A2-94D7-BE477EF7A84D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04550208-02E5-42A2-94D7-BE477EF7A84D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04550208-02E5-42A2-94D7-BE477EF7A84D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04550208-02E5-42A2-94D7-BE477EF7A84D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {970ED5C5-788D-4A12-B85E-24ECCAE22D7F}
+	EndGlobalSection
+EndGlobal
